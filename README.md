@@ -5,8 +5,8 @@
 
 - 👀 I'm interested in quite a bit of C#, Js, CSS & HTML. 
 
-- 📫 You can reach my via my email, or discord (Imperfect#0001)
-    * *Im heavily active on discord more 🌟*
+- 📫 You can reach me via my email, or discord (Imperfect#0001)
+    * *Im heavily active on discord 🌟*
 
 
  * *As a side note you should **definitely** use my [badges theme](https://github.com/ImperfectWasTaken/ImperfectsDiscordBadges) and request some *cool* stuff to deck out your discord experience 😎*
