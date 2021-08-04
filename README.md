@@ -6,7 +6,7 @@
 - 👀 I'm interested in quite a bit of C#, Js, CSS & HTML. 
 
 - 📫 You can reach me via my email, or discord (Imperfect#0001)
-    * *Im heavily active on discord 🌟*
+    * *Im heavily active on discord*
 
 ### Ok im done bye people 👋
 
